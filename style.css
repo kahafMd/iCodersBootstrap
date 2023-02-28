@@ -1,0 +1,48 @@
+body {
+ box-sizing: border-box;
+ margin: 0;
+}
+
+hr {
+    width: 85%;
+    margin: 40px auto;
+    
+}
+
+.home-container
+{
+    margin-top : 50px;
+    padding: 40px 0 ;
+    /* border : 2px solid red; */
+}
+
+/* Carousel Section  */
+
+
+
+.carousel-item {
+    /* border : 2px solid red; */
+    height: 370px;
+}
+
+.carousel-caption {
+    color : white;
+    
+}
+
+/* About page  */
+
+.about-container {
+    margin-top : 50px;
+    padding: 40px 40px ;
+    
+}
+
+/* Contact Page  */
+
+
+.contact-container {
+    
+    margin : 100px auto;
+    padding: 40px 20px ;
+}
